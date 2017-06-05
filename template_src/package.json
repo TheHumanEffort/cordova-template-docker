@@ -1,7 +1,7 @@
 {
-  "name": "TemplateProject",
+  "name": "DockerTemplateProject",
   "version": "1.0.0",
-  "description": "This is the project created from the template: cordova_template",
+  "description": "This is the project created from the template: cordova_template_docker",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
